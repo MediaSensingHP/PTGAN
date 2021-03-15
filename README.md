@@ -1,1 +1,1 @@
-# PTGAN-for-M-track-Music-Generation
+# 有音程楽器と打楽器を分離したネットワークによるマルチトラック楽曲の自動生成
